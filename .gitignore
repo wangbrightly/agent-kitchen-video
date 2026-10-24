@@ -1,0 +1,15 @@
+node_modules/
+.venv/
+build*/
+renders/
+fin_frames/
+stills/
+public/assets/*/audio.wav
+audio/cache/
+
+# GitHub 单文件限制：成片配音 WAV 约 100.8 MB，请在本地生成或通过外部制品提供
+public/assets/agent-kitchen/audio.wav
+
+# Render markers
+fin_count.txt
+render.done
