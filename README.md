@@ -6,13 +6,13 @@
 
 ## 视频
 
-<video controls preload="metadata" width="100%" src="https://github.com/wangbrightly/agent-kitchen-video/releases/download/v1.0.0/agent-kitchen_final.mp4">
+<video controls preload="metadata" width="100%" src="https://raw.githubusercontent.com/wangbrightly/agent-kitchen-video/main/renders/agent-kitchen_final.mp4">
   你的浏览器不支持直接播放视频，请使用下面的下载链接。
 </video>
 
-[下载/观看成片（MP4，GitHub Release）](https://github.com/wangbrightly/agent-kitchen-video/releases/download/v1.0.0/agent-kitchen_final.mp4)
+[直接打开视频文件](https://github.com/wangbrightly/agent-kitchen-video/blob/main/renders/agent-kitchen_final.mp4)
 
-也可查看[版本发布页](https://github.com/wangbrightly/agent-kitchen-video/releases/tag/v1.0.0)。
+视频文件随仓库提交，README 页面会直接引用仓库中的 MP4 播放。
 
 ## 快速开始
 
