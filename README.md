@@ -1,6 +1,6 @@
-# Agent Kitchen Video
+# 一个视频让你理解 AI 术语
 
-用 Remotion 编写的《AI 厨房》解释视频工程：通过一间厨房，把 LLM、Agent、Tool、Skill、Memory、Command、Hook、MCP 和 Plugin 等概念串起来。
+一个用 Remotion 编写的 AI 概念解释视频：用一条完整叙事，把 LLM、Agent、Tool、Skill、Memory、Command、Hook、MCP 和 Plugin 等概念讲清楚。
 
 项目包含完整的 1280×720、30 fps 视频合成代码，分为片头/覆盖层和 G1–G13 共 13 个构建组，并提供每组的预览合成。
 
