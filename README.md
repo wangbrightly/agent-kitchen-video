@@ -6,11 +6,11 @@
 
 ## 视频
 
-<video controls preload="metadata" width="100%" src="https://wangbrightly.github.io/agent-kitchen-video/renders/agent-kitchen_final.mp4">
-  你的浏览器不支持直接播放视频。
-</video>
+| 文件 | 说明 |
+|---|---|
+| [成片 MP4](renders/agent-kitchen_final.mp4) | 1280×720，30 fps，约 77 MB |
 
-视频文件随仓库提交，README 页面通过 GitHub Pages 直接播放仓库中的 MP4。
+视频文件随仓库提交，点击上面的 MP4 链接即可查看或下载。
 
 ## 快速开始
 
