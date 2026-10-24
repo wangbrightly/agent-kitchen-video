@@ -8,7 +8,7 @@
 
 | 文件 | 说明 |
 |---|---|
-| [成片 MP4（在线播放）](https://wangbrightly.github.io/agent-kitchen-video/renders/agent-kitchen_final.mp4) | 1280×720，30 fps，约 77 MB |
+| [视频链接](https://wangbrightly.github.io/agent-kitchen-video/renders/agent-kitchen_final.mp4) | 1280×720，30 fps，约 77 MB |
 
 视频文件随仓库提交，点击上面的 MP4 链接即可查看或下载。
 
