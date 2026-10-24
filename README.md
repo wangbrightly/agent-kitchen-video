@@ -4,6 +4,12 @@
 
 项目包含完整的 1280×720、30 fps 视频合成代码，分为片头/覆盖层和 G1–G13 共 13 个构建组，并提供每组的预览合成。
 
+## 视频
+
+[下载/观看成片（MP4，GitHub Release）](https://github.com/wangbrightly/agent-kitchen-video/releases/download/v1.0.0/agent-kitchen_final.mp4)
+
+也可查看[版本发布页](https://github.com/wangbrightly/agent-kitchen-video/releases/tag/v1.0.0)。
+
 ## 快速开始
 
 ```bash
